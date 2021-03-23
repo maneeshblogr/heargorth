@@ -1,0 +1,121 @@
+/*
+#1 color = #5cb85c;
+#2 color = #5cb85c;
+*/
+
+a:hover,
+a:focus {
+    color: #5cb85c;
+}
+
+.circled {
+	background: #5cb85c;
+}
+
+.con1 > div, .con2 > div, .con3 > div { 
+	background-color: #5cb85c;
+}
+
+.scrollup:hover {
+	background: #5cb85c;
+}
+
+
+/* service */
+
+.service-icon span {
+	color: #5cb85c;
+}
+
+
+
+/* button */
+.btn-skin {
+  background-color: #5cb85c;
+  border-color: #5cb85c;
+}
+
+
+/* top */
+.top-area {
+	background: #5cb85c;
+}
+
+/* menu */
+
+.navbar-custom ul.nav ul.dropdown-menu li a:hover {
+	color: #5cb85c;
+}
+.navbar-custom.top-nav-collapse .nav li a:hover,
+.navbar-custom .nav li a:hover,
+.navbar-custom .nav li.active a,.navbar-custom.top-nav-collapse .nav li.active a  {
+    /*color: #5cb85c;*/
+    color: #FFF;
+}
+
+
+.owl-theme .owl-controls .owl-page.active span,
+.owl-theme .owl-controls.clickable .owl-page:hover span {
+    background-color: #5cb85c;
+}
+
+
+.bg-skin {
+	background: #5cb85c;
+}
+
+.highlight-color {
+	background-color: #5cb85c;
+}
+.color {
+	color: #5cb85c;
+}
+
+/* pricing box  */
+.pricing-content.featured h2,.pricing-content.featured .price-bottom {
+	background-color:#5cb85c;
+}
+.pricing-content.featured h3 {
+	background:#5cb85c;
+}
+
+
+
+/* team */
+.cbp-l-grid-team-name {
+    color: #5cb85c;
+}
+
+.cbp-l-filters-button .cbp-filter-counter {
+	background-color: #5cb85c;
+}
+
+.cbp-l-filters-alignLeft .cbp-filter-item-active {
+    /* @editable properties */
+    background-color: #5cb85c;
+    border:1px solid #5cb85c;
+}
+
+.cbp-l-filters-dropdownWrap {
+    background: #5cb85c;
+}
+.cbp-l-filters-button .cbp-filter-item.cbp-filter-item-active {
+    /* @editable properties */
+    background-color: #5cb85c;
+    border-color: #5cb85c;
+}
+.cbp-l-caption-buttonLeft,
+.cbp-l-caption-buttonRight {
+    /* @editable properties */
+    background-color: #5cb85c;
+}
+
+.cbp-l-caption-buttonLeft:hover,
+.cbp-l-caption-buttonRight:hover {
+    /* @editable properties */
+    background-color: #5cb85c;
+}
+
+.form-control:focus {
+  border-color: #5cb85c;
+}
